@@ -1,0 +1,63 @@
+
+Privacy Policy – MONSTER WAR (Android Game)
+
+Last Updated: November 2025
+
+Thank you for playing MONSTER WAR
+Your privacy is important to us. This Privacy Policy explains what data we collect and how we use it.
+
+1. Information We Collect
+We do not collect any personal information from users.
+
+However, our game uses third‑party services that may collect certain data:
+
+Unity Ads may collect:
+- Device information
+- IP address
+- Advertising ID
+- App usage data (for showing ads)
+
+Unity’s full privacy policy:
+https://unity.com/legal/privacy-policy
+
+
+2. How We Use Information
+We use third‑party services only for:
+- Showing advertisements
+- Improving game performance
+
+We do not:
+sell data
+share personal details
+store any user accounts
+
+
+3. Children’s Privacy
+Our game does not knowingly collect data from children under 13.
+Ads shown comply with COPPA / child‑safe guidelines when required.
+
+
+4. Third‑Party Service Providers
+We may use the following:
+- Unity Ads
+- Google Play Services
+
+Each provider follows its own privacy policy.
+
+
+5. Security
+We do not store personal data.
+Third‑party services use encrypted/secure communication.
+
+
+6. Changes to This Policy
+We may update our policy occasionally.
+Changes will be shown inside this document.
+
+
+7. Contact Us
+If you have questions about this Privacy Policy, contact:
+
+Developer: Manish Jangid
+Email: (mj3538193@GMAIL.COM)
+Game: MONSTER WAR
